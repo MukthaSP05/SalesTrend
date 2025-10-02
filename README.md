@@ -27,7 +27,7 @@ The goal of this task is to analyze monthly revenue and order volume from an `or
    - Cumulative revenue over time (running total using window functions)
 
 ## SQL Script
-All queries are included in the file: `task6_sales_trend.sql`
+All queries are included in the file: `sales_trend.sql`
 
 ## Sample Output
 
